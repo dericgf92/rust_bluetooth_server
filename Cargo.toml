@@ -1,0 +1,9 @@
+[package]
+name = "ser_test"
+version = "0.0.1"
+authors = ["deric"]
+
+
+[dependencies]
+serial = "0.0.5"
+time = "*"
